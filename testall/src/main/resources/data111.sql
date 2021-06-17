@@ -1,0 +1,9 @@
+--
+-- insert into ma_longform(contractNumber, tradeId) values ('1', '111111');
+-- insert into ma_longform(contractNumber, tradeId) values ('2', '222222');
+-- insert into ma_longform(contractNumber, tradeId) values ('3', '333333');
+-- insert into ma_longform(contractNumber, tradeId) values ('4', '444444');
+-- insert into ma_longform(contractNumber, tradeId) values ('5', '555555');
+-- insert into ma_longform(contractNumber, tradeId) values ('6', '666666');
+-- insert into ma_longform(contractNumber, tradeId) values ('7', '777777');
+-- insert into ma_longform(contractNumber, tradeId) values ('8', '888888');

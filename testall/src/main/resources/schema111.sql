@@ -1,0 +1,4 @@
+--
+-- create table ma_longform(
+--     contractNumber varchar2(255 char),
+--     tradeId varchar2(255 char));
